@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "lark-channel-bridge": {
-      "command": "npx",
-      "args": ["-y", "lark-channel-bridge@latest", "start"]
-    }
-  }
-}
